@@ -15,7 +15,7 @@ Main panel with information about current level and exp points, as well as minig
 <img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/3639c96b-48e5-4398-9d30-4775b6919a39" width="225" height="400"><br>
 
 Minigames that aim to teach young people absics of cryptology: <br>
-<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/c8e77f62-dbed-4e61-b237-ea046e3459ed" width="420" height="225"><br>
+<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/c8e77f62-dbed-4e61-b237-ea046e3459ed" width="500" height="225"><br>
 
 Quiz activity that allows user to check his knowledge about the museum and cryptography, quiz has admin panel that allows admin to add/modify/delete questions. <br>
 <img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/45174cb0-b676-47d6-a690-9df83820e28b" width="225" height="400"> |
