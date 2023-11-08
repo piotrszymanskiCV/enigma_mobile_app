@@ -14,7 +14,7 @@ Interactive information panel (almost every part of the view is clicable and sen
 Main panel with information about current level and exp points, as well as minigames: <br>
 <img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/3639c96b-48e5-4398-9d30-4775b6919a39" width="225" height="480"><br>
 
-Minigames that aim to teach young people absics of cryptology: <br>
+Minigames that aim to teach young people basics of cryptology: <br>
 <img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/c8e77f62-dbed-4e61-b237-ea046e3459ed" width="500" height="225"><br>
 
 Quiz activity that allows user to check his knowledge about the museum and cryptography, quiz has admin panel that allows admin to add/modify/delete questions. <br>
