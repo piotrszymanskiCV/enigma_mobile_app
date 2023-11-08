@@ -3,7 +3,7 @@ Application made for ENIGMA Museum in Poznan as part of Bachelor's degree projec
 Due to privacy, no code is shown.<br>
 Login and register page, Firebase is being used to store and authenticate accounts: <br>
 
-<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/8fcddf5d-3e07-478f-ae94-c66298165a21)" width="225" height="400"> | <img src="[https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/8fcddf5d-3e07-478f-ae94-c66298165a21)](https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/5b3c800d-277d-44b2-aae4-3e3f56790aa8)" width="225" height="400"><br> 
+<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/8fcddf5d-3e07-478f-ae94-c66298165a21)" width="225" height="400"> | <img src="(https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/5b3c800d-277d-44b2-aae4-3e3f56790aa8)" width="225" height="400"><br> 
 
 
 <br>
