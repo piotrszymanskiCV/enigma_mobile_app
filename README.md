@@ -9,10 +9,10 @@ Login and register page, Firebase is being used to store and authenticate accoun
 <br>
 Interactive information panel (almost every part of the view is clicable and sends user to Instagram, Facebook, Google Maps etc.): <br>
 
-<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/a3f40f72-ff97-4d29-9106-78169079c791" width="225" height="400"><br>
+<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/a3f40f72-ff97-4d29-9106-78169079c791" width="225" height="500"><br>
 
 Main panel with information about current level and exp points, as well as minigames: <br>
-<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/3639c96b-48e5-4398-9d30-4775b6919a39" width="225" height="400"><br>
+<img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/3639c96b-48e5-4398-9d30-4775b6919a39" width="225" height="500"><br>
 
 Minigames that aim to teach young people absics of cryptology: <br>
 <img src="https://github.com/piotrszymanskiCV/enigma_mobile_app/assets/148684506/c8e77f62-dbed-4e61-b237-ea046e3459ed" width="500" height="225"><br>
